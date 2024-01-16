@@ -1,0 +1,36 @@
+{
+  "schedules": [
+    {
+      "id": "1",
+      "title": "a title",
+      "description": "lorem ipsum",
+      "subject": "",
+      "frequency": "",
+      "repeat": "",
+      "time": ""
+    },
+    {
+      "id": "2",
+      "title": "a title",
+      "description": "lorem ipsum",
+      "subject": "",
+      "frequency": "",
+      "repeat": "",
+      "time": ""
+    },
+    {
+      "id": "3",
+      "title": "a title",
+      "description": "lorem ipsum",
+      "subject": "",
+      "frequency": "",
+      "repeat": "",
+      "time": ""
+    },
+    {
+      "id": "e6cc",
+      "title": "xyz",
+      "description": "hello world"
+    }
+  ]
+}
