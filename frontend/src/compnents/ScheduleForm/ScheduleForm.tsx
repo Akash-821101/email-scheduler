@@ -155,7 +155,7 @@ const ScheduleForm: React.FC<ScheduleFormProps> = ({  scheduleId , style, onCanc
           </select>
       </div>
         <div className={styles.formBtn}>
-        <button className={`${styles.btnSecondary} ${styles.btn}`} onClick={onCancel}>cancel</button>
+        <button className={`${styles.btnSecondary} ${styles.btn}`} onClick={onCancel}>Cancel</button>
         <button className={`${styles.btnPrimary} ${styles.btn}`} onClick={handleSubmit}>{scheduleId ? 'Update' : 'Create'}</button>
         </div>
         
