@@ -1,3 +1,49 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": "d3b1",
+      "title": "test title",
+      "description": "test description",
+      "subject": "test sibjectaf",
+      "frequency": "Weekly",
+      "repeat": "2,4,6",
+      "time": "11:00AM"
+    },
+    {
+      "id": "84b8",
+      "title": "test title",
+      "description": "sample",
+      "subject": "test subject",
+      "frequency": "Daily",
+      "repeat": "",
+      "time": ""
+    },
+    {
+      "id": "b8c0",
+      "title": "test",
+      "description": "gfdgsd",
+      "subject": "fdsgfdsg",
+      "frequency": "Daily",
+      "repeat": "",
+      "time": "11:00AM"
+    },
+    {
+      "id": "109d",
+      "title": "sdfgfg",
+      "description": "sdfgsfdgsdfg",
+      "subject": "hello world",
+      "frequency": "Weekly",
+      "repeat": "1,2,3",
+      "time": "11:00AM"
+    },
+    {
+      "id": "fb78",
+      "title": "test sample",
+      "description": "test description",
+      "subject": "testing",
+      "frequency": "Daily",
+      "repeat": "",
+      "time": "12:00PM"
+    }
+  ]
 }
