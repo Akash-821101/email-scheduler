@@ -1,0 +1,20 @@
+.daysWrapper {
+    display: flex;
+    width: 216px;
+    justify-content: space-between;
+    
+    background-color: transparent;
+}
+
+.daysBox {
+    border: 1px solid var(--color-primary);
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 14px;
+    
+}

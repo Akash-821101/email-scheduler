@@ -1,0 +1,52 @@
+.app {
+    width: 100%;
+    height: 100vh;
+    background-color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+    height: 40px;
+    width: 100%;
+    background-color: var(--color-tertiary);
+}
+
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+.nav {
+    width: 80px;
+    background-color: var(--color-secondary);
+}
+
+.dashboard {
+    flex-grow: 1;
+    padding: 20px 40px 20px 20px;
+
+}
+
+.dashboardSearch-fields {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 100;
+    position: relative;
+    margin-bottom: 40px;
+}
+.btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    background-color: var(--color-secondary);
+    color: #fff;
+    border-radius: 4px;
+    padding: 8px;
+    height: 40px;
+
+}
