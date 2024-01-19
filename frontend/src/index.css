@@ -1,0 +1,36 @@
+:root {
+    --color-primary:  #F3F3F9;
+    --color-secondary:  #3C1E5A;
+    --color-tertiary: #D8D2DE;
+    --color-white: #EEEEEE;
+    --color-black: #333333;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    color: var(--color-black);
+    background-color: var(--color-primary);
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+    overflow-x: hidden;
+
+}
+
+input,
+button,
+select, label {
+    font: inherit;
+}
