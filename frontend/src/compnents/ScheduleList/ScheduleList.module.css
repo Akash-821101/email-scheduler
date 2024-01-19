@@ -1,8 +1,8 @@
 .table {
     width: 100%;
     border-collapse: collapse;
-    font-weight: 100;
-    background-color: var(--color-white);
+    font-weight: 300;
+    background-color: #fff;
 }
 
 .table thead {
@@ -18,7 +18,7 @@
 .table th {
     text-align: left;
     padding: 16px;
-    font-weight: 400;
+    font-weight: 600;
     font-size: 14px;
 }
 
@@ -28,7 +28,7 @@
 
  .tableBtn {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     align-items: center;
    
 }
@@ -36,5 +36,6 @@
 .tableBtn button {
     border: none;
     background-color: transparent;
+    cursor: pointer;
 }
 

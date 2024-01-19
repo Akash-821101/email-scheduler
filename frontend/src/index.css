@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200;6..12,300;6..12,500;6..12,600&display=swap');
+
 :root {
     --color-primary:  #F3F3F9;
     --color-secondary:  #3C1E5A;
@@ -23,7 +25,7 @@ html, body {
 body {
     color: var(--color-black);
     background-color: var(--color-primary);
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Nunito Sans', 'Poppins', sans-serif;
     line-height: 1.5;
     overflow-x: hidden;
 
